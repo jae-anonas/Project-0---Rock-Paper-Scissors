@@ -1,0 +1,27 @@
+  Fri, Jun 24 at 12:21 PM               rock          scissors            You win!
+  Fri, Jun 24 at 12:39 PM               rock             paper           You lose!
+   Fri, Jun 24 at 1:01 PM              paper             paper         It's a tie.
+   Fri, Jun 24 at 1:01 PM              paper             paper         It's a tie.
+   Fri, Jun 24 at 1:01 PM              paper          scissors           You lose!
+   Fri, Jun 24 at 1:19 PM           scissors              rock           You lose!
+   Fri, Jun 24 at 1:21 PM              paper          scissors           You lose!
+   Fri, Jun 24 at 1:29 PM               rock              rock         It's a tie.
+   Fri, Jun 24 at 2:33 PM               rock          scissors            You win!
+   Fri, Jun 24 at 2:33 PM              paper              rock            You win!
+   Fri, Jun 24 at 2:42 PM               rock          scissors            You win!
+   Fri, Jun 24 at 2:42 PM               rock          scissors            You win!
+   Fri, Jun 24 at 2:43 PM              paper              rock            You win!
+   Fri, Jun 24 at 2:47 PM               rock          scissors            You win!
+   Fri, Jun 24 at 2:47 PM              paper          scissors           You lose!
+   Fri, Jun 24 at 2:50 PM           scissors          scissors         It's a tie.
+   Fri, Jun 24 at 2:52 PM           scissors          scissors         It's a tie.
+   Fri, Jun 24 at 2:53 PM           scissors          scissors         It's a tie.
+   Fri, Jun 24 at 2:53 PM           scissors              rock           You lose!
+   Fri, Jun 24 at 2:53 PM               rock              rock         It's a tie.
+   Fri, Jun 24 at 3:04 PM               rock              rock         It's a tie.
+   Fri, Jun 24 at 3:04 PM               rock          scissors            You win!
+   Fri, Jun 24 at 3:08 PM               rock              rock         It's a tie.
+   Fri, Jun 24 at 3:17 PM               rock             paper           You lose!
+   Fri, Jun 24 at 3:40 PM               rock          scissors            You win!
+   Fri, Jun 24 at 3:40 PM              paper          scissors           You lose!
+   Fri, Jun 24 at 3:40 PM           scissors              rock           You lose!
